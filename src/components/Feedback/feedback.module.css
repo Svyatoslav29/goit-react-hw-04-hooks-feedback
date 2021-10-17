@@ -1,0 +1,13 @@
+.list {
+    color: black;
+    border: 2px solid #0e2e20;
+    width: 100px;
+    margin: 15px;
+    cursor: pointer;
+}
+    .list:hover {background-color: #238061}
+
+    .list:active {
+    background-color: #0dcc175b;
+
+    }
